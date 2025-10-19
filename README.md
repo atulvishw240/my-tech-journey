@@ -29,21 +29,17 @@ Identify the skills you already have and skills you need to learn.
 
 1️⃣ Check your skills
 
-Project	Tech	Different	Again
-Hack project 1	Js, Python	Don't use pandas	✅/❌
-Hack project 2	SQL, PHP,Rust	You can't learn Rust in a weekend	✅/❌
-copy me	copy me	copy me	✅/❌
-2️⃣ What roles are we aiming to achieve
+| Project |	Tech | Different | Again |
+| ------- | ---- | --------- | ----- |
+| Hack project 1 |	Js, Python | Don't use pandas |	✅/❌ |
 
-Job position	Needed	Desired	Responsibilities
-Sw Engineer 1	Js	React, Vue, SQL	maintain legacy code
-JS Dev	React	Typescript	implementation of UI
-copy me	copy me	copy me	copy me
-3️⃣ What we have and what we’re missing
+|Job position|Needed|Desired Responsibilities|
+| --- | --- | --- | --- |
+|Sw Engineer|Js|React, Vue, SQL|maintain legacy code|
 
-Skill	status
-JS	Done 🤓/need to learn 🤔
-React	Done 🤓/need to learn 🤔
-React Router	Done 🤓/need to learn 🤔
-Vue	Done 🤓/need to learn 🤔
-TypeScript	Done 🤓/need to learn 🤔
+| Skill  | status |
+| ------------- | ------------- |
+|JS  | Done 🤓/need to learn 🤔  |
+|React  | Done 🤓/need to learn 🤔  |
+|React Router  | Done 🤓/need to learn 🤔  |
+|Vue  | Done 🤓/need to learn 🤔  |
